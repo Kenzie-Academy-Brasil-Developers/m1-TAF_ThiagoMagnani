@@ -32,7 +32,7 @@ if (gender == 'female' && height >= 1.60 && (barReps >= 5 || barSeconds >= 12) &
 {
     passed = true;
 }
-/* Como o valor original do 'passed' é 'false' não vi a necessidade de utilizar 'else', ja que ao não ser 'true' automaticamente se torna 'false' */
+/* Como o valor inicial do 'passed' é 'false' não vi a necessidade de utilizar 'else', ja que ao não ser 'true' automaticamente se torna 'false' */
 
 /*
     Seu código deve conter apenas UM console.log, e ele deve ser o abaixo.
